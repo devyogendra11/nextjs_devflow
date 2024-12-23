@@ -39,7 +39,11 @@ export default {
       },
       screens: {
         xs: "420px",
-      }
+      },
+      fontFamily: {
+        intern: ['var(--font-intern)'],
+        "space-grotesk": ['var(--font-space-grotesk)'],
+      },
     },
   },
   plugins: [],
