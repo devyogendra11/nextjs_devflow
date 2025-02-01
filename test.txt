@@ -1,0 +1,25 @@
+<div className="flex items-center align-item-strech gap-7 py-10 px-5 justify-between w-[auto]">
+        <div className="w-[55%]">
+          <img 
+            src="https://zomatoblog.com/wp-content/uploads/2025/01/Q3FY25-Blog-cover.png"
+            alt="blog image"
+            className="object-contain"
+          />
+        </div>
+        <div className="flex flex-col items-end justify-end w-[45%]">
+          <div>
+            <span>Yogendra Singh</span>|
+            <span>January 20, 2025</span>
+          </div>
+          <div>
+            <p>
+            The Big Brand Theory | From trekking Himalayan slopes to raising Rs. 0.75 crores at Shark Tank: The story of Amore Gelato 
+            </p>
+          </div>
+          <div>
+            <p>
+            Read on to discover how Order Scheduling is transforming the way customers order and bringing benefits to our restaurant partners.
+            </p>
+          </div>
+        </div>
+      </div>
