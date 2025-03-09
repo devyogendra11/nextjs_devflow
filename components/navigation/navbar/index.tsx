@@ -3,6 +3,7 @@ import Link from 'next/link';
 import React from 'react';
 import Theme from './Theme';
 import MobileNavigation from "@/components/navigation/navbar/MobileNavigation";
+import LeftSidebar from "@/components/navigation/LeftSidebar";
 
 const Navbar = () => {
     return (
@@ -23,7 +24,6 @@ const Navbar = () => {
 
             <div className='flex-between gap-5'>
                 <Theme />
-
                 <MobileNavigation />
             </div>
         </nav>
